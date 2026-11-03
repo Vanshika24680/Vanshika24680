@@ -5,7 +5,7 @@ School of Data Science & Forecasting, DAVV, Indore
 
 ## Profile
 
-Aspiring Data Science professional with expertise in Python, SQL, Machine Learning, Data Analytics, and Streamlit application development.
+Aspiring Data Science professional with expertise in SQL, Python, Machine Learning, Data Analytics, and Streamlit application development.
 
 ## Technical Skills
 
