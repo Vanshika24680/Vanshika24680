@@ -12,6 +12,11 @@ Aspiring Data Science professional with expertise in SQL, Python, Machine Learni
 Python • SQL • Pandas • NumPy • Power BI • Streamlit • Machine Learning • Statistics
 
 ## Projects
+**CROWDGUARD: GROUND-CALIBRATED CROWD RISK ANALYTICS, CRYPTOGRAPHIC ALERTING, AND PERIMETER TRANSPORT DECISION SUPPORT
+Live Demo: https://crowdguard-zz94meesvgwpvqmxkze5jv.streamlit.app/
+
+**Agentic AI after sales support and warranty agent**
+Live Demo: https://warranty-agent-wxrjss3plojxm5e8i364xw.streamlit.app/
 
 **Finance Analytics Web Application**  
 Live Demo: https://finance-analytics-system-xgwpdgksdet56wdrt9pbm4.streamlit.app/
